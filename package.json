@@ -1,8 +1,15 @@
 {
     "name": "monokai-supersat",
     "displayName": "Monokai supersaturated",
-    "description": "Monokai theme take to an extreme. Black background and extremely saturate colours (apart from greys).",
+    "description": "Monokai theme taken to an extreme. Black background and extremely saturate colours.",
     "version": "0.0.1",
+    "publisher": "Limespy",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Limespy/monokai-supersat.git"
+    },
+    "license": "SEE LICENSE IN LICENSE.txt",
+    "homepage": "https://github.com/Limespy/monokai-supersat/blob/main/README.md",
     "engines": {
         "vscode": "^1.69.0"
     },
