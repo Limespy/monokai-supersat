@@ -2,7 +2,7 @@
 
 ## Overview
 
-![](examples/2022-07-19-20-54-54.png)
+![](images/python_example.png)
 
 - Black background
 - Red UI elements
