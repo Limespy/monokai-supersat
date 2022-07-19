@@ -1,13 +1,18 @@
 # README
-## This is the README for your extension "monokai-supersat"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets
+## Overview
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+![](examples/2022-07-19-20-54-54.png)
 
-**Enjoy!**
+- Black background
+- Red UI elements
+- Extremely saturated colours in syntax highlighting
+
+Based on "Monokai Charcoal high contrast" by 74th. 
+<https://marketplace.visualstudio.com/items?itemName=74th.monokai-charcoal-high-contrast>
+
+I recommend it for less "intense" colours
+
+## Rationale
+
+For me high contrast not just in terms of total brightness but also between colours makes text easier to read
