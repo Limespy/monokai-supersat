@@ -1,13 +1,13 @@
 {
     "name": "monokai-supersat",
-    "displayName": "Monokai supersaturated",
+    "displayName": "Monokai Supersaturated",
     "description": "Monokai theme taken to an extreme. Black background and extremely saturate colours.",
     "icon": "images/icon.png",
     "galleryBanner": {
         "color": "#C80000",
         "theme": "dark"
     },
-    "version": "1.0.1",
+    "version": "1.0.2",
     "publisher": "Limespy",
     "repository": {
         "type": "git",
