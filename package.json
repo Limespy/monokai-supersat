@@ -1,0 +1,21 @@
+{
+    "name": "monokai-supersat",
+    "displayName": "Monokai supersaturated",
+    "description": "Monokai theme take to an extreme. Black background and extremely saturate colours (apart from greys).",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.69.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Monokai supersaturated",
+                "uiTheme": "hc-black",
+                "path": "./themes/monokai-supersat-color-theme.json"
+            }
+        ]
+    }
+}
