@@ -5,9 +5,9 @@
     "icon": "images/icon.png",
     "galleryBanner": {
         "color": "#66CC00",
-        "theme": "dark"
+        "theme": "light"
     },
-    "version": "1.0.2",
+    "version": "1.0.3",
     "publisher": "Limespy",
     "repository": {
         "type": "git",
