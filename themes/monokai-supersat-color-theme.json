@@ -40,12 +40,12 @@
 		"editor.selectionBackground": "#771166",
 		"editor.selectionForeground": "#000c18",
 		"editor.selectionHighlightBackground": "#550000",
-		"editorBracketHighlight.foreground1": "#AACC00",
-		"editorBracketHighlight.foreground2": "#AA00FF",
-		"editorBracketHighlight.foreground3": "#FF8800",
-		"editorBracketHighlight.foreground4": "#00FF00",
-		"editorBracketHighlight.foreground5": "#FF00AA",
-		"editorBracketHighlight.foreground6": "#CCBB00",
+		"editorBracketHighlight.foreground1": "#CCFF00",
+		"editorBracketHighlight.foreground2": "#CC00FF",
+		"editorBracketHighlight.foreground3": "#33FF00",
+		"editorBracketHighlight.foreground4": "#FF9900",
+		"editorBracketHighlight.foreground5": "#00FFFF",
+		"editorBracketHighlight.foreground6": "#CCFF00",
 		"editorBracketHighlight.unexpectedBracket.foreground": "#FF0000cc",
 		//"editorBracketMatch.background": "#0064001a",
 		//"editorBracketMatch.border": "#888888",
@@ -672,6 +672,34 @@
 	},
 	"tokenColors": [
 		{
+            "scope": "meta.indexed-name.python",
+            "settings": {
+                "fontStyle": "",
+                "foreground": "#FFFF99"
+            }
+        },
+        {
+            "scope": "meta.function-call.generic.python",
+            "settings": {
+                "fontStyle": "",
+                "foreground": "#99FF99"
+            }
+        },
+        {
+            "scope": "keyword.operator.unpacking.arguments.python",
+            "settings": {
+                "fontStyle": "",
+                "foreground": "#AAEE00"
+            }
+        },
+        {
+            "scope": "string.quoted.docstring.multi.python",
+            "settings": {
+                "fontStyle": "",
+                "foreground": "#CCFF00"
+            }
+        },
+		{
 			"scope": [
 				"comment"
 			],
@@ -820,6 +848,14 @@
 				"fontStyle": "bold",
 			}
 		},
+		{
+			"scope": "meta.indexed-name.python",
+			"settings": {
+				"foreground": "#CCCC00",
+				"fontStyle": ""
+			}
+		},
+
 		{
 			"scope": [
 				"meta.structure.dictionary.json",
