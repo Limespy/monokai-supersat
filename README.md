@@ -8,10 +8,9 @@
 - Red UI elements
 - Extremely saturated colours in syntax highlighting
 
-Based on "Monokai Charcoal high contrast" by 74th. 
+Based on "Monokai Charcoal high contrast" by 74th.
 <https://marketplace.visualstudio.com/items?itemName=74th.monokai-charcoal-high-contrast>
-
-I recommend it for less "intense" colours
+For slightly less "intense" colours I recommend that
 
 ## Rationale
 
